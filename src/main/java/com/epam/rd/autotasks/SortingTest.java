@@ -5,14 +5,6 @@ import org.junit.Test;
 import java.util.Arrays;
 
 import static org.junit.Assert.assertEquals;
-/**
- * The SortingTest program tests class Sorting and method sort().
-
- * @author Denys Parshutkin
- * @version 1.0
- * @since 2023-09-06
- */
-
 
 public class SortingTest {
 
